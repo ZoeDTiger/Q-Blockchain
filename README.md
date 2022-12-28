@@ -17,6 +17,14 @@ https://faucet.qtestnet.org/
 ![Y9lDjIrDxkeBUHfcSRfhD](https://user-images.githubusercontent.com/100336530/209771703-d1ae44d1-f3c0-4baa-b256-85e4fa6b4b35.png)
 
 
+#### 3、进入q blockchain的质押网站，然后钱包连接q testnet测试网
+
+https://hq.qtestnet.org/validator-staking
+
+
+![KLdCVcLEDOPDBV8ZugU7v](https://user-images.githubusercontent.com/100336530/209771852-0b496e44-d2df-456e-b78c-1f6db88946e3.png)
+
+连接完成后将质押领到的测试q代币参与验证者质押ranking，依次点击图中按钮参与
 
 
 
