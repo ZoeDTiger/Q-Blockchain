@@ -37,6 +37,7 @@ https://itn.qdev.li/
 
 此处保存一下我们的验证者标识，下一步用到绑定我们的验证者节点上面
 
+![giULBUVqRkkygM12_NPcS](https://user-images.githubusercontent.com/100336530/209772402-ee9067f6-c516-4bc2-9420-8052791f1eb3.png)
 
 
 
