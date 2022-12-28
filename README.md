@@ -26,6 +26,33 @@ https://hq.qtestnet.org/validator-staking
 
 连接完成后将质押领到的测试q代币参与验证者质押ranking，依次点击图中按钮参与
 
+![2LTkptZPgMrcqLc1tD_Dj](https://user-images.githubusercontent.com/100336530/209772190-e81804fd-fb4e-4954-9291-74bc3254f716.png)
+
+
+#### 4、此时我们去q testnet激励测试注册网站完成我们的验证节点注册
+
+https://itn.qdev.li/
+
+![0f2zi39v479Q-R6QTv1pG](https://user-images.githubusercontent.com/100336530/209772306-2add373f-ddeb-4177-84d4-d2ac5268a2de.png)
+
+此处保存一下我们的验证者标识，下一步用到绑定我们的验证者节点上面
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
